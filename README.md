@@ -15,4 +15,4 @@ The model and pretrained weights can be found through [TorchVision](https://pyto
 | Model         | Accuracy      |
 | ------------- | ------------- |
 | VIT_b16: ImageNet weights       | 68.9%         |
-| VIT_b16: ImageNet_SWAG weights  | 93.6%         |
+| VIT_b16: ImageNet_SWAG weights  | 83.6%         |
