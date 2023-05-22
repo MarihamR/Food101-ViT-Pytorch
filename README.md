@@ -5,5 +5,5 @@
 
 | Model         | Accuracy      |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| VIT_b16: ImageNet weights  | 68.9%         |
+| VIT_b16: ImageNet_SWAG weights  | 93.6%         |
