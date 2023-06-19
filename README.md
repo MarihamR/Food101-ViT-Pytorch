@@ -10,8 +10,8 @@
 The model and pretrained weights can be found through [TorchVision](https://pytorch.org/vision/main/models/generated/torchvision.models.vit_b_16.html#torchvision.models.ViT_B_16_Weights)
 
 ### Repo Files:
-[Dataset_food.py](Dataset_food.py): Loading dataset with their splits and transformations.<br>
-[TransferModel.py](TransferModel.py): Class for Visual models (CNNs and ViT) and their finetuning for this dataset.<br>
+[Dataset_food.py](Dataset_food.py): load dataset with their splits and transformations.<br>
+[TransferModel.py](TransferModel.py): contains the `Model` class for Visual models (CNNs and ViT) and their finetuning for this dataset.<br>
 [Main.py](Main.py): contains the functions for training and testing Models.<br>
 [Food101.ipynb](MFood101.ipynb): the central script, which coordinates the various modules to achieve Food101 Classification task.<br>
 
