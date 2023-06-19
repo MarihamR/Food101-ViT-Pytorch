@@ -5,8 +5,8 @@
 
 ## Model Framework
 -This is implemented by Vision Transformer (Vit_b_16): [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
-- The Model is pretrained with [SWAG trunk weights](https://arxiv.org/abs/2201.08371), SWAG stands for Supervised Weakly through hashtAGs and enables weak supervision by utilizing the textual information provided through hashtags as an additional source of knowledge. By utilizing this weak supervision technique, we can effectively leverage large-scale unlabeled datasets and enhance the performance of our models.
-- These weights are composed of the original frozen SWAG trunk weights and a linear classifier learnt on top of them trained on ImageNet-1K data.
+-The Model is pretrained with [SWAG trunk weights](https://arxiv.org/abs/2201.08371), SWAG stands for Supervised Weakly through hashtAGs and enables weak supervision by utilizing the textual information provided through hashtags as an additional source of knowledge. By utilizing this weak supervision technique, we can effectively leverage large-scale unlabeled datasets and enhance the performance of our models.
+-These weights are composed of the original frozen SWAG trunk weights and a linear classifier learnt on top of them trained on ImageNet-1K data.
 The model and pretrained weights can be found through [TorchVision](https://pytorch.org/vision/main/models/generated/torchvision.models.vit_b_16.html#torchvision.models.ViT_B_16_Weights)
 
 
