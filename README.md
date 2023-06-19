@@ -11,9 +11,9 @@ The model and pretrained weights can be found through [TorchVision](https://pyto
 
 ### Repo Files:
 [Dataset_food.py](Dataset_food.py): Loading dataset with their splits and transformations.<br>
-[TransferModel.py](TransferModel.py): Class for Visual models (CNNs and ViT) and their finetuning for this dataset.
-[Main.py](Main.py): contains the functions for training and testing Models.
-[Food101.ipynb](MFood101.ipynb): the central script, which coordinates the various modules to achieve Food101 Classification task.
+[TransferModel.py](TransferModel.py): Class for Visual models (CNNs and ViT) and their finetuning for this dataset.<br>
+[Main.py](Main.py): contains the functions for training and testing Models.<br>
+[Food101.ipynb](MFood101.ipynb): the central script, which coordinates the various modules to achieve Food101 Classification task.<br>
 
 
 
