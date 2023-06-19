@@ -1,7 +1,7 @@
 # Food101-ViT-Pytorch
 
 ##  Samples of [Food101- Dataset](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101)
-![Dataset_Samples](food101.png)
+![Dataset_Samples](food-101.png)
 
 ## Model Framework
 This is implemented by Vision Transformer (Vit_b_16): [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
